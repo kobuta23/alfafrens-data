@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Results directories
+results/
+
+# Environment configuration files
+.env
